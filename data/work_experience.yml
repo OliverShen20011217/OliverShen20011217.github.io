@@ -1,11 +1,22 @@
 # WorkExperience.yml
 # Author Oliver Shen 8/11/2025
 # Work experience details for the Work Experience page
-
+- condition: still_working
+  company_name: Fuyao Glass America Inc.
+  located: Dayton, Ohio, USA
+  position: Operations Analytics - on-site
+  time: February 2026 - present
+  description:
+    - Built Python/SQL ETL to merge tempering cycle logs, alarm codes, sensor trends, and inspection results into analysis-ready tables by shift and SKU.
+    - Developed reproducible Jupyter analysis pipelines for downtime Pareto, FPY/scrap trends, and changeover distributions, with validation checks for traceable, auditable results.
+    - Delivered Excel KPI dashboards (PowerQuery/Pivots) with shift filters and drill-downs to help supervisors track throughput and labor efficiency.
+    - Improved pipeline reliability with cron scheduling and alerting—99.3% job success and 2.4 hrs/week less downtime.
+    - Applied Lean Six Sigma (DMAIC) to translate KPI findings into root-cause actions and SOP updates, standardizing fixes across shifts.
+    
 - condition: still_working
   company_name: Resilience Inc.  
   located: Tampa, Florida, USA                                                                                                                
-  position: AI Software Engineer Intern  - remote
+  position: AI Software Engineer Inter  - remote
   time: June 2025 - present   
   description: 
     - Integrated a lightweight AI-powered recommendation module, enhancing personalization and user engagement.
@@ -27,10 +38,10 @@
     - Plan and execute Ebay marketing campaigns, achieving a 12% conversion rate
     - Analyze sales data to optimize product mix and pricing, driving 20% month-over-month revenue growth
 
-- condition: still_working
+- condition: passed
   company_name: Tradition at Morrill in Ohio State University                                                                        
   located: Columbus, Ohio, USA                                                                                                 
-  time: September 2023 - present
+  time: September 2023 - December 2025
   position: Student Lead   
   description:                                                                                                           
     - Led a 15-member team to deliver exceptional customer service, boosting student satisfaction in the dining hall. 
