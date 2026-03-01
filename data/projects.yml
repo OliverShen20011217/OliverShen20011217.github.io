@@ -13,20 +13,6 @@
   Github_URL: https://github.com/OliverShen20011217/OliverShen20011217.github.io
   download_URL: /source/files/Project-4-MasterRubyInsane-main.zip
 
-
-- category: Research
-  name: Operational Assessment of Adversarial Vulnerabilities in AI-Enabled DoD Systems                   
-  located: Columbus, Ohio
-  subtitle: CIS Reserch Project   
-  time: September 2024 - April 2025                                                                                                  
-  description:
-    - Built adversarial pipeline in Python/PyTorch/OpenCV to apply noise and rotation distortions.
-    - Performed 500 + FGSM attacks (ε 0.02) on ResNet-18 to benchmark model robustness.
-    - Automated end-to-end workflow delivering batch inference under 1 min with structured CSV logging.
-    - Noise cut Top-1 accuracy 15% and combined attacks caused 85% errors; proposed defenses.
-  Github_URL: 
-  download_URL: /source/files/Operational Assessment of Adversarial Vulnerabilities in AI-Enabled DoD Systems.zip
-
 - category: Research
   name: Benchmarking Classical and Deep Learning-Based Image Steganography Algorithms
   located: Columbus, Ohio
@@ -40,6 +26,19 @@
     - Reported results using BER, PSNR, SSIM, and LPIPS, producing clear tables/plots and experiment logs for repeatability.
   Github_URL:
   download_URL:
+  
+- category: Research
+  name: Operational Assessment of Adversarial Vulnerabilities in AI-Enabled DoD Systems                   
+  located: Columbus, Ohio
+  subtitle: CIS Reserch Project   
+  time: September 2024 - April 2025                                                                                                  
+  description:
+    - Built adversarial pipeline in Python/PyTorch/OpenCV to apply noise and rotation distortions.
+    - Performed 500 + FGSM attacks (ε 0.02) on ResNet-18 to benchmark model robustness.
+    - Automated end-to-end workflow delivering batch inference under 1 min with structured CSV logging.
+    - Noise cut Top-1 accuracy 15% and combined attacks caused 85% errors; proposed defenses.
+  Github_URL: 
+  download_URL: /source/files/Operational Assessment of Adversarial Vulnerabilities in AI-Enabled DoD Systems.zip
 
 - category: projects
   name: PetCare — Cross-Platform Pet Management App
