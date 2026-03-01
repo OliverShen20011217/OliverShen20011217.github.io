@@ -27,34 +27,34 @@
   Github_URL: 
   download_URL: /source/files/Operational Assessment of Adversarial Vulnerabilities in AI-Enabled DoD Systems.zip
 
-  - category: Research
-    name: Benchmarking Classical and Deep Learning-Based Image Steganography Algorithms
-    located: Columbus, Ohio
-    subtitle: Computer Vision Research Project
-    time: October 2025 - December 2025
-    description:
-      - Built a reproducible benchmarking suite for image watermarking/steganography with unified datasets, attacks, and evaluation metrics.
-      - Reimplemented HiDDeN in PyTorch and integrated a minimal StegaStamp interface for consistent model comparison.
-      - Implemented modular, differentiable distortion attacks (JPEG compression, blur, crop, affine transforms) plus optional error correction.
-      - Ran controlled ablations to quantify robustness vs. imperceptibility trade-offs across algorithms and attack strengths.
-      - Reported results using BER, PSNR, SSIM, and LPIPS, producing clear tables/plots and experiment logs for repeatability.
-    Github_URL: https://github.com/yilinfang/Steganography-Benchmarking
-    download_URL:
+- category: Research
+  name: Benchmarking Classical and Deep Learning-Based Image Steganography Algorithms
+  located: Columbus, Ohio
+  subtitle: Computer Vision Research Project
+  time: October 2025 - December 2025
+  description:
+    - Built a reproducible benchmarking suite for image watermarking/steganography with unified datasets, attacks, and evaluation metrics.
+    - Reimplemented HiDDeN in PyTorch and integrated a minimal StegaStamp interface for consistent model comparison.
+    - Implemented modular, differentiable distortion attacks (JPEG compression, blur, crop, affine transforms) plus optional error correction.
+    - Ran controlled ablations to quantify robustness vs. imperceptibility trade-offs across algorithms and attack strengths.
+    - Reported results using BER, PSNR, SSIM, and LPIPS, producing clear tables/plots and experiment logs for repeatability.
+  Github_URL:
+  download_URL:
 
-  - category: projects
-    name: PetCare — Cross-Platform Pet Management App
-    located: Columbus, Ohio
-    subtitle: React Native · TypeScript · Supabase · Zustand
-    time: November 2025 - April 2026
-    description:
-      - Designed end-to-end product development from UX wireframing to a full-featured React Native implementation.
-      - Built multi-pet profiles and activity logs with scalable, reusable UI components and consistent navigation patterns.
-      - Implemented secure Supabase CRUD with Row-Level Security (RLS) and user-scoped queries to enforce strict data isolation.
-      - Developed an AI health Q&A feature and structured the data model to support conversation history and pet-context prompts.
-      - Optimized UI responsiveness by tuning Zustand state slices/selectors to reduce unnecessary re-renders and improve screen performance.
-      - Created a scalable icon-mapping system and design tokens to keep the UI consistent as features expanded.
-    Github_URL:
-    download_URL:
+- category: projects
+  name: PetCare — Cross-Platform Pet Management App
+  located: Columbus, Ohio
+  subtitle: React Native · TypeScript · Supabase · Zustand
+  time: November 2025 - April 2026
+  description:
+    - Designed end-to-end product development from UX wireframing to a full-featured React Native implementation.
+    - Built multi-pet profiles and activity logs with scalable, reusable UI components and consistent navigation patterns.
+    - Implemented secure Supabase CRUD with Row-Level Security (RLS) and user-scoped queries to enforce strict data isolation.
+    - Developed an AI health Q&A feature and structured the data model to support conversation history and pet-context prompts.
+    - Optimized UI responsiveness by tuning Zustand state slices/selectors to reduce unnecessary re-renders and improve screen performance.
+    - Created a scalable icon-mapping system and design tokens to keep the UI consistent as features expanded.
+  Github_URL: https://github.com/yilinfang/Steganography-Benchmarking
+  download_URL:
 
 - category: projects
   name: Buckeye Book Bazaar
