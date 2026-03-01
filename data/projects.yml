@@ -24,7 +24,7 @@
     - Implemented modular, differentiable distortion attacks (JPEG compression, blur, crop, affine transforms) plus optional error correction.
     - Ran controlled ablations to quantify robustness vs. imperceptibility trade-offs across algorithms and attack strengths.
     - Reported results using BER, PSNR, SSIM, and LPIPS, producing clear tables/plots and experiment logs for repeatability.
-  Github_URL:
+  Github_URL: https://github.com/yilinfang/Steganography-Benchmarking
   download_URL:
   
 - category: Research
@@ -52,7 +52,7 @@
     - Developed an AI health Q&A feature and structured the data model to support conversation history and pet-context prompts.
     - Optimized UI responsiveness by tuning Zustand state slices/selectors to reduce unnecessary re-renders and improve screen performance.
     - Created a scalable icon-mapping system and design tokens to keep the UI consistent as features expanded.
-  Github_URL: https://github.com/yilinfang/Steganography-Benchmarking
+  Github_URL: 
   download_URL:
 
 - category: projects
